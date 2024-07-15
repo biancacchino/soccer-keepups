@@ -17,5 +17,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Bianca Javier - (https://www.linkedin.com/in/bianca-javier-b6b6482a7/) - biancajavier006@gmail.com
 
-Project Link: [https://github.com/biancacchino/crazy-highway-cpt](https://github.com/biancacchino/crazy-highway-cpt)
 
